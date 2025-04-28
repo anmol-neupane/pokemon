@@ -49,6 +49,10 @@ const pokemonList = [
   { id: 48, name: "venonat" },
   { id: 49, name: "venomoth" },
   { id: 50, name: "diglett" },
+  { id: 51, name: "dugtrio" },
+  { id: 52, name: "meowth" },
+  { id: 53, name: "persian" },
+  { id: 54, name: "psyduck" },
 ];
 
 const grid = document.getElementById("pokemonGrid");
